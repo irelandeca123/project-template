@@ -1,8 +1,9 @@
 # Irish Constituencies Neo4j Database
-###### Student name, G00123456
+###### Stoyan Rizov, G00313180
 
 ## Introduction
 Give a summary here of what your project is about.
+
 
 ## Database
 Explain how you created your database, and how information is represented in it.
